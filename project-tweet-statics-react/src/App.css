@@ -1,0 +1,19 @@
+.App {
+ min-height: 100vh;
+ background: rgb(140, 208, 231);
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+.Tweet-box{
+  height: 300px;
+  width: 300px;
+  color: black;
+  background-color: white;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
