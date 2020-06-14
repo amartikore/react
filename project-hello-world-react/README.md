@@ -1,6 +1,12 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Summary ->>
 
-## Available Scripts
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).   
+This is my first react appliaction created by using 'npx create-react-app "project-name"' command.  
+Main idea behind this project is to understand the default project scaffolding in react appliaction.   
+This is simple 'Hello World' application in react.  
+We can edit 'app.js' file in order to do root component level changes in the react. 
+
+## Available Scripts -->
 
 In the project directory, you can run:
 
